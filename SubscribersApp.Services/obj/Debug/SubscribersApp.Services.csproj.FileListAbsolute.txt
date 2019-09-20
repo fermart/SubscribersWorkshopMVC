@@ -1,0 +1,14 @@
+C:\Users\v-luzane\source\repos\SubscribersApp\SubscribersApp.Services\bin\Debug\SubscribersApp.Services.dll
+C:\Users\v-luzane\source\repos\SubscribersApp\SubscribersApp.Services\bin\Debug\SubscribersApp.Services.pdb
+C:\Users\v-luzane\source\repos\SubscribersApp\SubscribersApp.Services\bin\Debug\SubscribersApp.Core.dll
+C:\Users\v-luzane\source\repos\SubscribersApp\SubscribersApp.Services\bin\Debug\SubscribersApp.Infrastructure.dll
+C:\Users\v-luzane\source\repos\SubscribersApp\SubscribersApp.Services\bin\Debug\SubscribersApp.Core.pdb
+C:\Users\v-luzane\source\repos\SubscribersApp\SubscribersApp.Services\bin\Debug\SubscribersApp.Infrastructure.pdb
+C:\Users\v-luzane\source\repos\SubscribersApp\SubscribersApp.Services\bin\Debug\SubscribersApp.Infrastructure.dll.config
+C:\Users\v-luzane\source\repos\SubscribersApp\SubscribersApp.Services\obj\Debug\SubscribersApp.Services.csprojAssemblyReference.cache
+C:\Users\v-luzane\source\repos\SubscribersApp\SubscribersApp.Services\obj\Debug\SubscribersApp.Services.csproj.CoreCompileInputs.cache
+C:\Users\v-luzane\source\repos\SubscribersApp\SubscribersApp.Services\obj\Debug\SubscribersApp.Services.csproj.CopyComplete
+C:\Users\v-luzane\source\repos\SubscribersApp\SubscribersApp.Services\obj\Debug\SubscribersApp.Services.dll
+C:\Users\v-luzane\source\repos\SubscribersApp\SubscribersApp.Services\obj\Debug\SubscribersApp.Services.pdb
+C:\Users\v-luzane\source\repos\SubscribersApp\SubscribersApp.Services\bin\Debug\EntityFramework.dll
+C:\Users\v-luzane\source\repos\SubscribersApp\SubscribersApp.Services\bin\Debug\EntityFramework.xml

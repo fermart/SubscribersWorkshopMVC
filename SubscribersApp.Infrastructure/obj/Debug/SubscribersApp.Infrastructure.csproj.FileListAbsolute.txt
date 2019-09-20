@@ -1,0 +1,16 @@
+C:\Users\v-luzane\source\repos\SubscribersApp\SubscribersApp.Infrastructure\bin\Debug\SubscribersApp.Infrastructure.dll.config
+C:\Users\v-luzane\source\repos\SubscribersApp\SubscribersApp.Infrastructure\bin\Debug\SubscribersApp.Infrastructure.dll
+C:\Users\v-luzane\source\repos\SubscribersApp\SubscribersApp.Infrastructure\bin\Debug\SubscribersApp.Infrastructure.pdb
+C:\Users\v-luzane\source\repos\SubscribersApp\SubscribersApp.Infrastructure\bin\Debug\EntityFramework.dll
+C:\Users\v-luzane\source\repos\SubscribersApp\SubscribersApp.Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\v-luzane\source\repos\SubscribersApp\SubscribersApp.Infrastructure\bin\Debug\SubscribersApp.Core.dll
+C:\Users\v-luzane\source\repos\SubscribersApp\SubscribersApp.Infrastructure\bin\Debug\SubscribersApp.Core.pdb
+C:\Users\v-luzane\source\repos\SubscribersApp\SubscribersApp.Infrastructure\bin\Debug\EntityFramework.xml
+C:\Users\v-luzane\source\repos\SubscribersApp\SubscribersApp.Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\v-luzane\source\repos\SubscribersApp\SubscribersApp.Infrastructure\obj\Debug\SubscribersApp.Infrastructure.csprojAssemblyReference.cache
+C:\Users\v-luzane\source\repos\SubscribersApp\SubscribersApp.Infrastructure\obj\Debug\SubscribersApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\v-luzane\source\repos\SubscribersApp\SubscribersApp.Infrastructure\obj\Debug\SubscribersApp.Infrastructure.csproj.CopyComplete
+C:\Users\v-luzane\source\repos\SubscribersApp\SubscribersApp.Infrastructure\obj\Debug\SubscribersApp.Infrastructure.dll
+C:\Users\v-luzane\source\repos\SubscribersApp\SubscribersApp.Infrastructure\obj\Debug\SubscribersApp.Infrastructure.pdb
+C:\Users\v-luzane\source\repos\SubscribersApp\SubscribersApp.Infrastructure\obj\Debug\SubscribersApp.Infrastructure.Migrations.InitialCreate.resources
+C:\Users\v-luzane\source\repos\SubscribersApp\SubscribersApp.Infrastructure\obj\Debug\SubscribersApp.Infrastructure.csproj.GenerateResource.cache
